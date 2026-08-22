@@ -1,0 +1,7 @@
+GLYPHLOCK/1
+warden: north-gate
+ward-depth: 9
+sigil: a1b2c3d4
+chain: alpha->beta
+epoch-band: 1..5
+attest: present
