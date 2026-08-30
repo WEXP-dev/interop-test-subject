@@ -52,3 +52,14 @@ epoch bands, so no counterparty can mirror that state — which is the point.
 No generic interop core. No adapters. No WEXP material. No production
 semantics. Those live elsewhere; this repository is the counterparty and
 nothing more.
+
+## Status and licence
+
+**Synthetic test fixture / synthetic counterparty.** GLYPHLOCK exists to be the
+other party in an interoperability exercise and nothing else. It is not a WEXP
+implementation, not a supported third-party system, not a standards artifact,
+not a product, and not external validation of anything.
+
+Licensed under the Apache License, Version 2.0 — see [`LICENSE`](LICENSE).
+Every file here was written for this repository. No background material is
+carried in, and nothing here relicenses anything else.
